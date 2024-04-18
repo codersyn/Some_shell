@@ -16,7 +16,7 @@ echo -e "│  ██║        ██║      ██║   ██║  ██║�
 echo -e "│  ╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝  │"
 echo -e "│  ${GREEN}Python3一键编译安装脚本 ──Code By Syn${NC}                  │"
 echo -e "│  ${GREEN}v1.0 2024-04-12${NC}                                        │"
-echo -e "│  ${GREEN}https://sysy.su${NC}                                        │"
+echo -e "│  ${GREEN}https://github.com/codersyn${NC}                            │"
 echo -e "└─────────────────────────────────────────────────────────┘"
 
 # 函数：检查和尝试安装 'sudo'
